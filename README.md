@@ -29,15 +29,15 @@ This project is a **Power BI Dashboard** for analyzing:
 
 ### Customer Dashboard
 
-![Customer](Dashboard-Image/customer_dashboard.png)
+![Customer](Dashboard%20Image/customer_dashboard.png)
 
 ### Map Analysis
 
-![Map](Dashboard-Image/map.png)
+![Map](Dashboard%20Image/map.png)
 
 ### Product Analysis
 
-![Product](Dashboard-Image/product_analysis.png)
+![Product](Dashboard%20Image/product_analysis.png)
 
 ---
 
