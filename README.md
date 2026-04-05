@@ -25,7 +25,7 @@ This project is a **Power BI Dashboard** for analyzing:
 
 ### Executive Dashboard
 
-![Executive](Dashboard-Image/exec_dashboard.png)
+![Executive](Dashboard%20Image/exec_dashboard.png)
 
 ### Customer Dashboard
 
